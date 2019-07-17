@@ -1,0 +1,27 @@
+{
+  "name": "diner-map",
+  "version": "1.0.0",
+  "description": "diner map of New Jersey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsardines/diner-map.git"
+  },
+  "author": "haley sulcer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsardines/diner-map/issues"
+  },
+  "homepage": "https://github.com/Tsardines/diner-map#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "webpack": "^4.36.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.4"
+  }
+}
