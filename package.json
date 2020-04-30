@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Tsardines/diner-map#readme",
   "dependencies": {
     "babel-loader": "^8.0.6",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "webpack": "^4.36.1"
   },
   "devDependencies": {
